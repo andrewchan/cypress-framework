@@ -4,6 +4,7 @@
 A Cypress based custom framework that allows executing specs in parallel on local machine without CI.
 
 ## Dependency
+- cypress
 - commander
 - mocha
 
